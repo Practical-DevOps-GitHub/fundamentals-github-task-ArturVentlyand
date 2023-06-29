@@ -1,12 +1,19 @@
-## Опишите ваши изменения
+### Describe your changes
 
 
-## Номер и ссылка на тикет проблемы
+### Issue ticket number and link
 
 
-## Контрольный список перед запросом на рецензию
+### Checklist before requesting a review
 
-- [ ] Я провел самоанализ своего кода
-- [ ] Если это основная функция, я добавил тщательные тесты
-- [ ] Нужно ли нам внедрять аналитику?
-- [ ] Будет ли это частью обновления продукта? Если да, напишите, пожалуйста, одну фразу об этом обновлении.
+- [ ] I have performed a self-review of my code
+- [ ] If it is a core feature, I have added thorough tests
+- [ ]  Do we need to implement analytics?
+- [ ] Will this be part of a product update? If yes, please write one phrase about this update.
+
+
+
+
+ 
+ 
+
